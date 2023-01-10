@@ -531,7 +531,7 @@
       "list": [
         {
           "title": "用户管理",
-          "jump": "基础设置/用户管理"
+          "jump": "page/Admin"
         }
       ]
     }
